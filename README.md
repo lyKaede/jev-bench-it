@@ -1,14 +1,22 @@
 # Jev Italian benchmark on MASSIVE 1.1
 
-Jev, the decision model released by TypeSafe AI in September 2026, has so far been tested mainly in English. I wanted to know how it does in Italian, so I ran it on the same sentences in Italian and in English from Amazon's MASSIVE dataset and compared the results.
+| | |
+|---|---|
+| **Task** | Intent classification on parallel short voice commands, Italian vs English |
+| **Result** | 83.4% IT vs 86.7% EN |
+| **Dataset** | 2,974 parallel utterances (MASSIVE 1.1, test split) |
+| **Model** | Jev 1.13.0 |
+| **Finding** | ~1.1 pp of the 3.3 pp gap appears attributable to missing punctuation in Italian questions |
+
+Jev, the decision model released by TypeSafe AI in September 2026, has so far been tested mainly in English. I ran it on the same sentences in Italian and in English from Amazon's MASSIVE dataset and compared the results.
+
+This benchmark measures **Italian vs English performance on parallel short voice-command intent classification**. It does not measure how well Jev understands Italian in general (see [What this benchmark does not show](#what-this-benchmark-does-not-show)).
 
 Short version:
 
 - On the 2,974 test utterances, Jev is 3.3 points less accurate in Italian (83.4% vs 86.7%). The difference is statistically significant.
 - About a third of the gap comes from the dataset, not from the model. MASSIVE has no punctuation, and in Italian a yes/no question without "?" is just a statement. Adding the question mark back closes the gap on questions.
 - Jev's confidence is too high in both languages, a bit more in Italian, so thresholds tuned on English data shouldn't be reused as they are.
-
-These numbers are for one dataset and one task (intent classification on short voice commands), not a general measure of Jev's Italian.
 
 ## Why
 
@@ -98,8 +106,15 @@ When Jev says 0.99 it's right 93-94% of the time, so about one "sure" answer in 
 - MASSIVE's Italian sentences are translations, not written by Italian speakers, and some are off (*"b.b.c. world headlines"* became *"rai esteri titoli di testa"*, which means film opening credits).
 - The question rule is a heuristic with some false positives (e.g. "where i went today").
 - Some MASSIVE labels are debatable and count as errors.
-- One model version, one dataset, one task, short voice commands only.
 - Prompt only tested in English. Each sentence was run once.
+
+## What this benchmark does not show
+
+- **How well Jev understands Italian in general.** It covers one task (picking 1 of 60 intents) on short voice commands. Emails, long texts, other question types (Score, Noul) or other domains may behave differently.
+- **How Jev does on native Italian.** The sentences are translations from English, with the artifacts that come with it.
+- **That the remaining ~2.2 pp gap is the model's fault.** It may still include translation problems and debatable labels: this benchmark doesn't separate them.
+- **That there is no gap on questions once "?" is added.** p = 0.18 means no evidence of a difference, not evidence that there is none.
+- **Anything about other model versions or other models.** Only `jev-1.13.0` was tested, once per sentence.
 
 ## Reproduce
 
@@ -124,11 +139,13 @@ python grafici.py         # charts in grafici/
 
 Raw results are in [`risultati/`](risultati/). Code and comments are in Italian.
 
-## Next
+## Future work
 
-- A small hand-written Italian set (negation, punctuation, formal/informal register, idioms, irony, regional words, pronouns, long sentences), written by native speakers, with English versions.
-- Other languages from MASSIVE. My guess: languages that, like Italian, mark yes/no questions only with intonation should show the same punctuation effect, languages that use word order (German) or a particle (Japanese) shouldn't.
-- Italian prompt, native (not translated) Italian data, other models.
+Directions that build on this benchmark, open to anyone who wants to pick them up:
+
+- **An Italian-native stress test.** Sentences written by native speakers on Italian-specific phenomena: negation, missing or inconsistent punctuation, formal/informal register, idioms, ambiguity, irony, regional words, agreement and pronouns, long sentences, typically Italian expressions. Ideally as minimal pairs, where one small change flips the correct answer. This would move from a controlled benchmark on translated data to a linguistic one.
+- **More languages.** The same setup on other MASSIVE languages. A testable hypothesis: languages that, like Italian, mark yes/no questions only with intonation should show the same punctuation effect, while languages that use word order (German) or a particle (Japanese) shouldn't.
+- **Other variables.** Italian instructions and intent descriptions, native (not translated) Italian data, other models.
 
 ## Credits
 
