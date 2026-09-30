@@ -1,0 +1,880 @@
+{"id": "3444", "frase": "sono le dieci?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "6594", "frase": "dove sono stata oggi?", "intento_vero": "general_quirky", "intento_jev": "calendar_query", "confidenza": 0.39}
+{"id": "6072", "frase": "quanto devo aspettare per ritirare l'ordine da burger king?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 1.0}
+{"id": "6515", "frase": "com'è andata oggi?", "intento_vero": "general_quirky", "intento_jev": "general_greet", "confidenza": 0.93}
+{"id": "14967", "frase": "come posso imparare l'inglese?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 0.51}
+{"id": "16797", "frase": "qual è il numero di telefono di mister taxi è tra i miei contatti?", "intento_vero": "email_querycontact", "intento_jev": "email_querycontact", "confidenza": 0.99}
+{"id": "6516", "frase": "è stata una giornata pesante?", "intento_vero": "general_quirky", "intento_jev": "general_greet", "confidenza": 0.79}
+{"id": "14449", "frase": "arisa ha avuto un figlio?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.75}
+{"id": "16061", "frase": "ho ricevuto delle email negli ultimi dieci minuti?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "5261", "frase": "la canzone è di shakira?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 1.0}
+{"id": "8461", "frase": "quali sono i miei programmi nel mese di maggio?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "8343", "frase": "è mercoledì?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "2355", "frase": "da che film viene questa musica e come si chiama?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 0.99}
+{"id": "3516", "frase": "qual è la probabilità di precipitazioni oggi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "3178", "frase": "in che anno è uscito questo brano?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 0.59}
+{"id": "2898", "frase": "c'è qualche novità riguardante le elezioni?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "9011", "frase": "l'evento di pasqua è il quattordici di questo mese?", "intento_vero": "calendar_query", "intento_jev": "datetime_query", "confidenza": 0.88}
+{"id": "11634", "frase": "quale film dovrei guardare oggi?", "intento_vero": "recommendation_movies", "intento_jev": "recommendation_movies", "confidenza": 1.0}
+{"id": "8766", "frase": "ho un incontro sabato venticinque marzo?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "3008", "frase": "puoi alzare le luci per favore?", "intento_vero": "iot_hue_lightup", "intento_jev": "iot_hue_lightup", "confidenza": 1.0}
+{"id": "8033", "frase": "di che giorno cade pasqua?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.97}
+{"id": "13101", "frase": "quanto fa uno più uno?", "intento_vero": "qa_maths", "intento_jev": "qa_maths", "confidenza": 1.0}
+{"id": "10426", "frase": "cosa altro manca nel diario?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 0.66}
+{"id": "9062", "frase": "puoi mettere il compleanno di leonardo il ventidue giugno?", "intento_vero": "calendar_set", "intento_jev": "calendar_set", "confidenza": 0.95}
+{"id": "12289", "frase": "c'è un ingorgo sul mio percorso?", "intento_vero": "transport_traffic", "intento_jev": "transport_traffic", "confidenza": 1.0}
+{"id": "3276", "frase": "olly wasabi sushi fa consegne a domicilio?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 1.0}
+{"id": "11633", "frase": "che film ci sono oggi al cinema?", "intento_vero": "recommendation_movies", "intento_jev": "recommendation_events", "confidenza": 0.81}
+{"id": "3576", "frase": "qual è l'ultima notizia da rete quattro?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "333", "frase": "qual è la condizione meteo a milano?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "9678", "frase": "puoi riprodurre orgoglio e pregiudizio?", "intento_vero": "play_audiobook", "intento_jev": "play_audiobook", "confidenza": 0.79}
+{"id": "6305", "frase": "cosa vuoi fare oggi?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.58}
+{"id": "14419", "frase": "paola cortellesi farà un nuovo film quest'anno?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.94}
+{"id": "14763", "frase": "quanto vale il dollaro rispetto all'euro?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "13554", "frase": "quanto è alto brad pitt?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "6860", "frase": "ci sono eventi tra poco?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.85}
+{"id": "3598", "frase": "e tu?", "intento_vero": "general_quirky", "intento_jev": "general_greet", "confidenza": 0.92}
+{"id": "3228", "frase": "natale quest'anno di che giorno della settimana viene?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "3507", "frase": "è prevista neve?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "13242", "frase": "qual è la miglior ricetta per i biscotti al burro?", "intento_vero": "general_quirky", "intento_jev": "cooking_recipe", "confidenza": 1.0}
+{"id": "13330", "frase": "quanto è grande un capodoglio?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "2824", "frase": "che giorno è il tredici dicembre?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.99}
+{"id": "13888", "frase": "qual è la temperatura a napoli?", "intento_vero": "qa_factoid", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "12437", "frase": "quanto tempo si impiega ad arrivare a teatro?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 0.93}
+{"id": "411", "frase": "mi racconti una barzelletta?", "intento_vero": "general_joke", "intento_jev": "general_joke", "confidenza": 1.0}
+{"id": "8056", "frase": "ho un appuntamento venerdì?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "10090", "frase": "mi trovi una ricetta per il tonno?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 1.0}
+{"id": "2365", "frase": "che canzone c'è alla radio?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 1.0}
+{"id": "6055", "frase": "ho lasciato la luce del garage accesa?", "intento_vero": "iot_hue_lightoff", "intento_jev": "iot_hue_lightoff", "confidenza": 0.74}
+{"id": "3161", "frase": "ho qualche sveglia impostata per le sei di domani mattina?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 1.0}
+{"id": "11744", "frase": "olly quali film drammatici debuttano questo fine settimana?", "intento_vero": "recommendation_movies", "intento_jev": "recommendation_movies", "confidenza": 0.74}
+{"id": "11600", "frase": "quale film posso vedere stasera in teatro qui a lucca?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 0.81}
+{"id": "8916", "frase": "qual è il mio programma per oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "10105", "frase": "quanto devo cuocere una bistecca a cottura media?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 1.0}
+{"id": "5974", "frase": "ho impostato una sveglia per prendere le pillole nel pomeriggio?", "intento_vero": "alarm_query", "intento_jev": "alarm_set", "confidenza": 0.6}
+{"id": "6405", "frase": "come si chiama il verso del cane?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 0.91}
+{"id": "16356", "frase": "ho inviato una email a tommaso sul tema del controllo delle armi?", "intento_vero": "email_query", "intento_jev": "email_sendemail", "confidenza": 0.56}
+{"id": "5797", "frase": "dovrei mettere l' impermeabile prima di uscire?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.84}
+{"id": "1994", "frase": "puoi aprire il mio itunes?", "intento_vero": "play_music", "intento_jev": "play_music", "confidenza": 0.91}
+{"id": "5661", "frase": "dovrei portare con me il mio impermeabile?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.98}
+{"id": "2178", "frase": "qual è la situazione meteo attuale da me?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "11706", "frase": "quali negozi ci sono nelle vicinanze?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 1.0}
+{"id": "8494", "frase": "cosa c'è nella mia agenda oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "16668", "frase": "è arrivata qualche email dalle quattro di oggi?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "9116", "frase": "puoi rimandare la riunione?", "intento_vero": "calendar_query", "intento_jev": "calendar_remove", "confidenza": 0.76}
+{"id": "9121", "frase": "quali giorni ho impegnati?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "13592", "frase": "dove si trova la nuova zelanda sulla mappa?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "2198", "frase": "che giorno della settimana era il quattro dicembre millenovecentoottantadue?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.96}
+{"id": "508", "frase": "che sveglie sono attive?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 1.0}
+{"id": "5554", "frase": "questa canzone è di ed sheeran?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 1.0}
+{"id": "11733", "frase": "come è il film chiamami col tuo nome?", "intento_vero": "recommendation_movies", "intento_jev": "qa_factoid", "confidenza": 0.88}
+{"id": "6248", "frase": "quanti anni hai?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.91}
+{"id": "4449", "frase": "pioverà all una di pomeriggio oggi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "5085", "frase": "quali sono le previsioni per sabato?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "15815", "frase": "qual è il numero di telefono di lavoro di emilia?", "intento_vero": "email_querycontact", "intento_jev": "email_querycontact", "confidenza": 1.0}
+{"id": "2354", "frase": "che tipo di musica è questa?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 0.99}
+{"id": "10099", "frase": "come si cucina il risotto?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 1.0}
+{"id": "4336", "frase": "che ore sono in cina?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.65}
+{"id": "14044", "frase": "qual è il tasso di cambio in questa regione?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "14308", "frase": "quant'è il patrimonio di leonardo dicaprio?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.99}
+{"id": "13575", "frase": "qual è stato l'ultimo film ad aver vinto un oscar?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "13223", "frase": "come fa jennifer aniston a sembrare così giovane?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 0.64}
+{"id": "7693", "frase": "ho qualcosa in programma il ventuno?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "7141", "frase": "questo programma è in agenda?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.99}
+{"id": "13040", "frase": "qual è la radice quadrata di nove?", "intento_vero": "qa_maths", "intento_jev": "qa_maths", "confidenza": 1.0}
+{"id": "13122", "frase": "qual è il fattoriale di dieci?", "intento_vero": "qa_maths", "intento_jev": "qa_maths", "confidenza": 1.0}
+{"id": "2545", "frase": "com'è il tempo?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "17069", "frase": "c'è qualche nuova email su outlook?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "10100", "frase": "sai una ricetta per il risotto?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 1.0}
+{"id": "13681", "frase": "in quanti film ha recitato patrick stewart?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "360", "frase": "che ore sono adesso?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "14859", "frase": "qual è il tasso di cambio con la sterlina britannica?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "12446", "frase": "puoi dirmi a che ora parte il treno per trieste?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "12526", "frase": "qual è il modo più veloce per arrivare da starbucks?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 0.97}
+{"id": "13031", "frase": "qual è la pizzeria più vicina?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 1.0}
+{"id": "13666", "frase": "quanto valgono le sterline adesso?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "1413", "frase": "puoi farmi del caffé siri?", "intento_vero": "iot_coffee", "intento_jev": "iot_coffee", "confidenza": 0.99}
+{"id": "4957", "frase": "che giorno della settimana è il ventitre di questo mese?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "11384", "frase": "puoi scaricare i file del mio podcast da internet e riprodurli?", "intento_vero": "play_podcasts", "intento_jev": "play_podcasts", "confidenza": 1.0}
+{"id": "13966", "frase": "quanto vale lo yen?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "1635", "frase": "a che ora suonano le mie sveglie?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 1.0}
+{"id": "16765", "frase": "a che ora è il colloquio dalla email di ieri?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 0.89}
+{"id": "16888", "frase": "c'è una nuova mail?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "7978", "frase": "che promemoria ho fissato prima di mezzogiorno di domani?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.9}
+{"id": "10451", "frase": "cosa farò oggi?", "intento_vero": "lists_query", "intento_jev": "general_quirky", "confidenza": 0.57}
+{"id": "4659", "frase": "non parlare?", "intento_vero": "audio_volume_mute", "intento_jev": "audio_volume_mute", "confidenza": 0.91}
+{"id": "13636", "frase": "quand'è il compleanno di carlo verdone?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.56}
+{"id": "3127", "frase": "quanti tornado ci sono stati questo mese?", "intento_vero": "general_quirky", "intento_jev": "weather_query", "confidenza": 0.54}
+{"id": "4934", "frase": "quando dovrebbe arrivare il mio ordine da burger king?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 1.0}
+{"id": "3295", "frase": "il fratelli la bufala qui vicino fa consegne?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.97}
+{"id": "13067", "frase": "puoi crearmi una dieta senza zuccheri e una lista della spesa con tutti gli ingredienti?", "intento_vero": "general_quirky", "intento_jev": "lists_createoradd", "confidenza": 0.82}
+{"id": "3936", "frase": "qual è la temperatura?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.99}
+{"id": "13439", "frase": "quanti anni ha j. k. rowling?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "15933", "frase": "che nuove email ho?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "764", "frase": "quali sono le previsioni del tempo per questa settimana?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "1371", "frase": "cosa c'è sulla prima pagina di repubblica?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "14417", "frase": "quale oceano tocca il nostro continente?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "6214", "frase": "quand'è il compleanno del mio amico?", "intento_vero": "general_quirky", "intento_jev": "email_querycontact", "confidenza": 0.96}
+{"id": "4764", "frase": "pioverà lunedì?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "11802", "frase": "ci sono delle buone pizzerie qui vicino?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 1.0}
+{"id": "12473", "frase": "come arrivo a casa da qui?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "4982", "frase": "qual è la barzelletta più divertente?", "intento_vero": "general_joke", "intento_jev": "general_joke", "confidenza": 1.0}
+{"id": "14794", "frase": "qual era il piatto preferito di elvis?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.98}
+{"id": "13679", "frase": "sai dirmi quanti stomaci ha una mucca?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "6722", "frase": "c'è qualcosa di cui dovrei ricordarmi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.83}
+{"id": "6069", "frase": "c'è probabilità di temporali oggi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "13372", "frase": "a che ora ci sono le partite della serie a stasera?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 0.69}
+{"id": "7889", "frase": "a che ora sarà la partita di calcio stasera?", "intento_vero": "calendar_query", "intento_jev": "datetime_query", "confidenza": 0.49}
+{"id": "16717", "frase": "invia email a giovanni dicendo che sono in ferie?", "intento_vero": "email_sendemail", "intento_jev": "email_sendemail", "confidenza": 1.0}
+{"id": "16712", "frase": "ho qualche nuova email?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "967", "frase": "posso prendere da asporto da spizzico?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_order", "confidenza": 0.49}
+{"id": "6403", "frase": "come andare da qualche parte?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 0.91}
+{"id": "475", "frase": "quali errori fai di solito?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.97}
+{"id": "13297", "frase": "cos'è una celebrità?", "intento_vero": "qa_factoid", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "16859", "frase": "cosa ho scritto a chiara nella mia ultima email?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "5270", "frase": "quali sono le notizie dell'ultima ora?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "6014", "frase": "che artista è questo?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 0.99}
+{"id": "11582", "frase": "c'è qualche evento di jazz vicino a milano?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 1.0}
+{"id": "11767", "frase": "olly che eventi ci sono a pisa questo fine settimana?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 1.0}
+{"id": "2647", "frase": "puoi per favore creare una playlist spotify per elisa?", "intento_vero": "music_settings", "intento_jev": "play_music", "confidenza": 0.7}
+{"id": "4236", "frase": "è ancora pomeriggio?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "14316", "frase": "quanto è grande la sicilia?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "89", "frase": "puoi ordinare del sushi per la cena di stasera?", "intento_vero": "takeaway_order", "intento_jev": "takeaway_order", "confidenza": 1.0}
+{"id": "3418", "frase": "puoi impostare la macchinetta del caffè perché faccia il caffè alle sette di mattina?", "intento_vero": "iot_coffee", "intento_jev": "iot_coffee", "confidenza": 0.98}
+{"id": "12693", "frase": "com'è il traffico sulla mia solita strada per il lavoro?", "intento_vero": "transport_traffic", "intento_jev": "transport_traffic", "confidenza": 1.0}
+{"id": "8042", "frase": "quante persone ci saranno alla prossima riunione?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "9149", "frase": "a che ora dovrebbe cominciare la cena di gala?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.89}
+{"id": "8119", "frase": "dove si tiene la festa di compleanno di maria?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.95}
+{"id": "13689", "frase": "cos'è una sedia?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "2512", "frase": "come faccio a impostare la macchinetta del caffè per fare il caffè?", "intento_vero": "iot_coffee", "intento_jev": "iot_coffee", "confidenza": 0.98}
+{"id": "17157", "frase": "ho qualche nuova email da giovanni?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "7879", "frase": "quali sono i miei prossimi tre eventi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "14315", "frase": "questo è il momento storico più importante o meno importante?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.76}
+{"id": "8679", "frase": "oggi è ferragosto?", "intento_vero": "calendar_query", "intento_jev": "datetime_query", "confidenza": 0.98}
+{"id": "5017", "frase": "puoi farmi un caffè per favore?", "intento_vero": "iot_coffee", "intento_jev": "iot_coffee", "confidenza": 1.0}
+{"id": "13215", "frase": "qual è la strada più veloce per andare a lavoro in centro città senza beccare traffico?", "intento_vero": "transport_query", "intento_jev": "transport_traffic", "confidenza": 0.59}
+{"id": "5074", "frase": "com'è il tempo per la settimana?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.96}
+{"id": "3306", "frase": "quali sono le previsioni della settimana?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "14246", "frase": "come si ottiene il basalto?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 0.99}
+{"id": "7956", "frase": "rendi questo evento periodico?", "intento_vero": "calendar_set", "intento_jev": "calendar_set", "confidenza": 0.96}
+{"id": "6568", "frase": "cosa mi succederebbe se tu fossi un essere senziente?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 1.0}
+{"id": "12160", "frase": "puoi prenotarmi un taxi per domani?", "intento_vero": "transport_taxi", "intento_jev": "transport_taxi", "confidenza": 1.0}
+{"id": "7111", "frase": "a che ora è l'appuntamento dal dottore del trentun marzo?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "6101", "frase": "c'è qualche sveglia attiva al momento?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 1.0}
+{"id": "13625", "frase": "qual è la scrivania più grande?", "intento_vero": "qa_definition", "intento_jev": "qa_factoid", "confidenza": 0.52}
+{"id": "16273", "frase": "come raggiungo sara?", "intento_vero": "email_querycontact", "intento_jev": "email_querycontact", "confidenza": 0.71}
+{"id": "7817", "frase": "è vera questa cosa di questa data?", "intento_vero": "calendar_query", "intento_jev": "datetime_query", "confidenza": 0.86}
+{"id": "11643", "frase": "quali eventi ci saranno a breve?", "intento_vero": "recommendation_events", "intento_jev": "calendar_query", "confidenza": 0.58}
+{"id": "13298", "frase": "che cosa fa una persona famosa?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.8}
+{"id": "10164", "frase": "per quanto tempo si cuociono le tagliatelle?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 1.0}
+{"id": "4125", "frase": "dove posso trovare del sakè e del cibo giapponese da portare via?", "intento_vero": "takeaway_query", "intento_jev": "recommendation_locations", "confidenza": 0.94}
+{"id": "16992", "frase": "chiara ferrari mi ha inviato una email?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "86", "frase": "che giorno è oggi?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "16583", "frase": "il mio collega ha un numero di telefono fisso?", "intento_vero": "email_querycontact", "intento_jev": "email_querycontact", "confidenza": 1.0}
+{"id": "3408", "frase": "il tempo sarà bello questo fine settimana?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "7946", "frase": "quali sono i prossimi concerti a milano?", "intento_vero": "calendar_query", "intento_jev": "recommendation_events", "confidenza": 0.99}
+{"id": "4145", "frase": "che sveglie ho impostato oggi?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 1.0}
+{"id": "6177", "frase": "avrò bisogno di un ombrello oggi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "15032", "frase": "quanto vale un euro in sterline?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "12835", "frase": "a che ora parte il treno per luogo?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "14904", "frase": "le azioni salivano scendevano?", "intento_vero": "qa_stock", "intento_jev": "qa_stock", "confidenza": 0.96}
+{"id": "6542", "frase": "il formaggio spalmabile è meglio del formaggio stagionato?", "intento_vero": "cooking_recipe", "intento_jev": "qa_factoid", "confidenza": 0.61}
+{"id": "16603", "frase": "cosa dice la email inviata mezz'ora fa da mamma?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "15794", "frase": "dove vive matteo?", "intento_vero": "email_querycontact", "intento_jev": "qa_factoid", "confidenza": 0.45}
+{"id": "15792", "frase": "chi devo incontrare oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "14684", "frase": "chi è il primo ministro della russia?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "4845", "frase": "quante ore di distanza ci sono tra la mia posizione e roma?", "intento_vero": "datetime_convert", "intento_jev": "transport_query", "confidenza": 0.9}
+{"id": "13799", "frase": "qual è la definizione di soggiogare?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "4254", "frase": "che ore sono sulla costa orientale degli stati uniti?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.85}
+{"id": "10534", "frase": "qual è la lista delle cose da fare di oggi?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 0.94}
+{"id": "11947", "frase": "quali sono i ristoranti vicino a me?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 1.0}
+{"id": "9994", "frase": "puoi dirmi la ricetta per cucinare il ragù alla bolognese?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 1.0}
+{"id": "8674", "frase": "dov'è la mia riunione delle nove?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "9980", "frase": "qual è il menù di oggi aggiungi delle verdure grigliate?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 0.38}
+{"id": "13591", "frase": "qual è il capoluogo dell' emilia romagna?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "3253", "frase": "dovremmo aspettarci la pioggia oggi pomeriggio?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "10851", "frase": "quali sono le mie liste disponibili?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 1.0}
+{"id": "9930", "frase": "per quanto devo bollire l' uovo?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 1.0}
+{"id": "4224", "frase": "quando sarà consegnato il mio cibo cinese?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 1.0}
+{"id": "279", "frase": "qual è il meteo oggi per berlino?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "16838", "frase": "puoi inviare l' email al nuovo id?", "intento_vero": "email_sendemail", "intento_jev": "email_sendemail", "confidenza": 1.0}
+{"id": "13359", "frase": "quanto fa dodici più centonovantasei?", "intento_vero": "qa_maths", "intento_jev": "qa_maths", "confidenza": 1.0}
+{"id": "11827", "frase": "dove posso andare stasera?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_locations", "confidenza": 0.81}
+{"id": "9107", "frase": "a che ora inizia il concerto di fedez il tre giugno?", "intento_vero": "calendar_query", "intento_jev": "qa_factoid", "confidenza": 0.59}
+{"id": "4189", "frase": "come definiresti questo tipo di musica che stiamo ascoltando?", "intento_vero": "music_query", "intento_jev": "qa_definition", "confidenza": 0.59}
+{"id": "8672", "frase": "dov'è il concerto dei pooh?", "intento_vero": "calendar_query", "intento_jev": "qa_factoid", "confidenza": 0.56}
+{"id": "4290", "frase": "dovrei prendere una giacca stasera?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.86}
+{"id": "5919", "frase": "quali sono le ultime notizie sul ponte sullo stretto?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "484", "frase": "chi canta questo brano?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 0.99}
+{"id": "13607", "frase": "puoi dirmi se leonardo è sposato?", "intento_vero": "qa_factoid", "intento_jev": "email_querycontact", "confidenza": 0.45}
+{"id": "4871", "frase": "com'è fuori?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "1474", "frase": "quali sono le notizie sullo sport di oggi?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "12245", "frase": "quand'è il prossimo treno da torino a napoli?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "1870", "frase": "che mese è oggi?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "12409", "frase": "dov'è il rifornimento più vicino?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 0.97}
+{"id": "13069", "frase": "qual è la definizione di arancia?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "14994", "frase": "qual è il prossimo film di pierfrancesco favino?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.95}
+{"id": "2679", "frase": "la temperatura rimarrà la stessa o farà più freddo?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.99}
+{"id": "8570", "frase": "puoi segnare che domani alle quattordici sono impegnato per un evento?", "intento_vero": "calendar_set", "intento_jev": "calendar_set", "confidenza": 1.0}
+{"id": "4130", "frase": "ho una sveglia promemoria impostata per la lezione di danza?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 0.8}
+{"id": "2773", "frase": "quanto ci vuole per il mio ordine?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.98}
+{"id": "10954", "frase": "quante liste ho nei contatti?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 0.95}
+{"id": "11796", "frase": "quale bar i drink più economici vicino a corso mazzini?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 1.0}
+{"id": "14526", "frase": "qual è il prezzo del dollaro?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "11628", "frase": "dov'è la farmacia a cortina?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 0.97}
+{"id": "16799", "frase": "ho ricevuto qualche email dopo mezzogiorno?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "16666", "frase": "ho qualche nuova email?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "13099", "frase": "chi era l'attuale primo ministro dell' italia?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.99}
+{"id": "12008", "frase": "ci sono eventi interessanti a bari oggi?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 1.0}
+{"id": "13383", "frase": "in quanti stati è in vigore la pena di morte?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "13547", "frase": "dove hanno visto claudio bisio ieri sera?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 0.73}
+{"id": "9103", "frase": "c'è una riunione per questo pomeriggio nel calendario?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "5406", "frase": "da michele fa da asporto?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.98}
+{"id": "14838", "frase": "cos'è il filtro a densità neutra è meglio graduato o solido e dal punto di vista stilistico è meglio uno a vite o a lastra?", "intento_vero": "qa_factoid", "intento_jev": "qa_definition", "confidenza": 0.51}
+{"id": "13997", "frase": "quanto costa una casa in media?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.99}
+{"id": "13871", "frase": "come descriveresti un buon compleanno?", "intento_vero": "qa_definition", "intento_jev": "general_quirky", "confidenza": 0.95}
+{"id": "4913", "frase": "questa barzelletta la conosci?", "intento_vero": "general_joke", "intento_jev": "general_joke", "confidenza": 0.82}
+{"id": "4837", "frase": "c'è qualche novità olly?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 0.56}
+{"id": "10753", "frase": "cos'ho già messo nella mia lista dell' ipercoop?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 1.0}
+{"id": "1533", "frase": "che notizie c'erano oggi su sky?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "13077", "frase": "quando è il compleanno di robin williams?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.62}
+{"id": "1374", "frase": "puoi alzare il tuo volume?", "intento_vero": "audio_volume_up", "intento_jev": "audio_volume_up", "confidenza": 1.0}
+{"id": "13819", "frase": "com'è andato oggi l'indice di borsa?", "intento_vero": "qa_stock", "intento_jev": "qa_stock", "confidenza": 1.0}
+{"id": "8914", "frase": "a che ora è il mio appuntamento il quattro aprile?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "14241", "frase": "quanto vale l' euro rispetto al dollaro?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "7168", "frase": "puoi darmi i dettagli sulla prossima conferenza annuale che si terrà il ventisei marzo?", "intento_vero": "general_quirky", "intento_jev": "calendar_query", "confidenza": 0.97}
+{"id": "13404", "frase": "quale negozio fa gli sconti domani?", "intento_vero": "general_quirky", "intento_jev": "recommendation_locations", "confidenza": 0.91}
+{"id": "299", "frase": "com'è il tempo?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.99}
+{"id": "3060", "frase": "qual è la news da quella nuova fonte?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "2615", "frase": "dovrò mettere una giacca mercoledì prossimo?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.99}
+{"id": "14792", "frase": "dove è un sentiero vicino a me?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 0.93}
+{"id": "16467", "frase": "ho qualche nuova email dal mio contatto sig.?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 0.99}
+{"id": "14253", "frase": "quanto valgono le azioni di amazon?", "intento_vero": "qa_stock", "intento_jev": "qa_stock", "confidenza": 1.0}
+{"id": "16677", "frase": "ho qualche nuova email nella mia posta in arrivo oggi?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "3128", "frase": "olly quanti tornado ci sono stati questo mese?", "intento_vero": "general_quirky", "intento_jev": "weather_query", "confidenza": 0.53}
+{"id": "14382", "frase": "quanto è grande l'empire state building?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "13683", "frase": "quale lacca usa donald trump?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.76}
+{"id": "11612", "frase": "che mostre d'armi ci sono a milano?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 0.81}
+{"id": "14787", "frase": "che differenza c'è tra il calendario romano e gregoriano?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.98}
+{"id": "16669", "frase": "ho ricevuto una email da paolo?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "2258", "frase": "ho bisogno di un maglione oggi?", "intento_vero": "weather_query", "intento_jev": "general_quirky", "confidenza": 0.67}
+{"id": "3020", "frase": "rossopomodoro fa da asporto?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.99}
+{"id": "8635", "frase": "ricordami di ordinare la zucca l'agnello tre settimane prima di pasqua?", "intento_vero": "calendar_set", "intento_jev": "calendar_set", "confidenza": 0.73}
+{"id": "1449", "frase": "quand'è pasqua nell'anno duemiladiciotto?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.97}
+{"id": "13283", "frase": "quanti soldi guadagna bill gates?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.99}
+{"id": "10182", "frase": "quante uova mi servono per fare una frittata?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 0.57}
+{"id": "17179", "frase": "giovanna mi ha inviato una email?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "344", "frase": "pioverà domani?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "4212", "frase": "riuscirò a falciare il prato stasera?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.53}
+{"id": "14440", "frase": "qual è la capitale del messico?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "4227", "frase": "è prevista pioggia la prossima settimana?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "6050", "frase": "avrò bisogno della crema solare più tardi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.42}
+{"id": "665", "frase": "puoi abbassare le luci?", "intento_vero": "iot_hue_lightdim", "intento_jev": "iot_hue_lightdim", "confidenza": 1.0}
+{"id": "14169", "frase": "quale università ha frequentato laura boldrini?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "16914", "frase": "ho email da questo mittente?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 0.74}
+{"id": "12413", "frase": "com'è la condizione del traffico al momento?", "intento_vero": "transport_traffic", "intento_jev": "transport_traffic", "confidenza": 1.0}
+{"id": "8559", "frase": "ho qualcosa in programma oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "3407", "frase": "ci sono previsioni di pioggia o neve questa settimana?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "1677", "frase": "quale musica è adesso in riproduzione?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 1.0}
+{"id": "5433", "frase": "pioverà più tardi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "6376", "frase": "dimmi un bel film iraniano del duemilasedici?", "intento_vero": "recommendation_movies", "intento_jev": "recommendation_movies", "confidenza": 1.0}
+{"id": "15971", "frase": "qual è stata l'ultima email del lavoro?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "4614", "frase": "la temperatura sarà superiore a quaranta gradi domani?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "16427", "frase": "quante nuove email ho ricevuto oggi?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "7397", "frase": "c'è qualche evento pianificato per i prossimi tre mesi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "7570", "frase": "cosa c'è in programma oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.98}
+{"id": "16874", "frase": "quanti numeri di telefono ho per leonardo?", "intento_vero": "email_querycontact", "intento_jev": "email_querycontact", "confidenza": 1.0}
+{"id": "14040", "frase": "quanto è alto fabian aichner?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.98}
+{"id": "13853", "frase": "dove ci sono il maggior numero di vulcani sulla terra?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "7503", "frase": "dov'è quella riunione a milano delle tredici di venerdì?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "13464", "frase": "perché siamo qui?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.88}
+{"id": "407", "frase": "puoi riprodurre della musica rock per la prossima ora?", "intento_vero": "play_music", "intento_jev": "play_music", "confidenza": 1.0}
+{"id": "15229", "frase": "c'è qualche post dal mio amico luigi su facebook?", "intento_vero": "social_query", "intento_jev": "social_query", "confidenza": 1.0}
+{"id": "15020", "frase": "quanti anni ha sophia loren?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "8150", "frase": "ho un promemoria sulla festa di compleanno?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.97}
+{"id": "15304", "frase": "qualcuno mi ha seguito oggi su twitter?", "intento_vero": "social_query", "intento_jev": "social_query", "confidenza": 1.0}
+{"id": "8681", "frase": "è il compleanno di qualcuno?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.71}
+{"id": "2255", "frase": "posso ordinare da asporto da spizzico?", "intento_vero": "takeaway_order", "intento_jev": "takeaway_order", "confidenza": 0.7}
+{"id": "4137", "frase": "puoi confermarmi che il passaparola fa da asporto?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.61}
+{"id": "9138", "frase": "quando comincia ufficialmente la fase a eliminazione diretta della champions league?", "intento_vero": "qa_factoid", "intento_jev": "datetime_query", "confidenza": 0.56}
+{"id": "14179", "frase": "quanto dista l'italia dalla mia posizione attuale?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.55}
+{"id": "6964", "frase": "ricordami il mio prossimo incontro con il capo un'ora prima?", "intento_vero": "calendar_set", "intento_jev": "calendar_set", "confidenza": 0.68}
+{"id": "4767", "frase": "ci sono nuove informazioni riguardo il muro sul confine tra stati uniti e messico?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "6290", "frase": "cosa mi consigli da leggere?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.83}
+{"id": "14653", "frase": "quant'è la popolazione della russia?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "2432", "frase": "a che punto è il mio ordine?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.98}
+{"id": "12800", "frase": "dov'è la biblioteca pubblica?", "intento_vero": "transport_query", "intento_jev": "recommendation_locations", "confidenza": 0.74}
+{"id": "11942", "frase": "trova un negozio di mobili vicino a me?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 1.0}
+{"id": "11081", "frase": "che liste ci sono nelle mie note?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 1.0}
+{"id": "5465", "frase": "posso indossare i miei sandali oggi?", "intento_vero": "weather_query", "intento_jev": "general_quirky", "confidenza": 0.87}
+{"id": "14418", "frase": "cosa fa draghi nella vita di tutti i giorni?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.67}
+{"id": "9943", "frase": "quanto ci vuole a fare la lasagna vegetariana?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 0.94}
+{"id": "10177", "frase": "come usare la zucca?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 0.96}
+{"id": "441", "frase": "quali sono le ultime notizie?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "14509", "frase": "dov'è nato gandhi?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "12159", "frase": "puoi prenotarmi un taxi?", "intento_vero": "transport_taxi", "intento_jev": "transport_taxi", "confidenza": 1.0}
+{"id": "4554", "frase": "puoi farmi un caffè?", "intento_vero": "iot_coffee", "intento_jev": "iot_coffee", "confidenza": 1.0}
+{"id": "14151", "frase": "che tipo di occhiali da sole sono considerati da aviatore?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.88}
+{"id": "767", "frase": "puoi per favore cercare le ultime notizie da una fonte che non uso spesso?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "1014", "frase": "che ore sono a milano adesso?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.92}
+{"id": "13222", "frase": "chiara ferragni dove compra i vestiti ai figli?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 0.83}
+{"id": "12908", "frase": "a che ora arriva a bologna il treno?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "15513", "frase": "c'è qualcosa di importante che sta succedendo sui social?", "intento_vero": "social_query", "intento_jev": "social_query", "confidenza": 1.0}
+{"id": "7975", "frase": "c'è un servizio di ritiro e riconsegna auto all'evento?", "intento_vero": "calendar_query", "intento_jev": "transport_query", "confidenza": 0.7}
+{"id": "8469", "frase": "che programmi ho nel mio calendario oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "7316", "frase": "ho qualche appuntamento?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "1794", "frase": "draghi vuole visitare la francia in qualche momento presto?", "intento_vero": "news_query", "intento_jev": "qa_factoid", "confidenza": 0.55}
+{"id": "15364", "frase": "puoi dire ad amazon che questa custodia per il telefono è una robaccia?", "intento_vero": "social_post", "intento_jev": "social_post", "confidenza": 0.95}
+{"id": "12256", "frase": "com'è il traffico al momento vicino a parco sempione?", "intento_vero": "transport_traffic", "intento_jev": "transport_traffic", "confidenza": 1.0}
+{"id": "9061", "frase": "che informazioni ho nei promemoria?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.67}
+{"id": "16263", "frase": "ho ricevuto una nuova email da gianni?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "14567", "frase": "qual è il più grande vulcano attivo sulla terra?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "7185", "frase": "quando è il mio prossimo appuntamento con il dottor bianchi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "14661", "frase": "in che anno è nato silvio berlusconi?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.96}
+{"id": "4383", "frase": "che tempo farà domani?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "7524", "frase": "quanto è disposto a investire bianchi nella mia azienda alla riunione che si è tenuta oggi alle cinque e venti del pomeriggio?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.7}
+{"id": "14367", "frase": "ci sarà una quarta guerra mondiale?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.48}
+{"id": "12161", "frase": "potresti prenotare un taxi quando esco per andare in ufficio?", "intento_vero": "transport_taxi", "intento_jev": "transport_taxi", "confidenza": 1.0}
+{"id": "16096", "frase": "amanda mi ha mandato qualche nuova email?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "7113", "frase": "ci saranno degli eventi in città questo fine settimana?", "intento_vero": "calendar_query", "intento_jev": "recommendation_events", "confidenza": 0.99}
+{"id": "7122", "frase": "puoi ripetere questo evento?", "intento_vero": "calendar_set", "intento_jev": "calendar_query", "confidenza": 0.83}
+{"id": "11751", "frase": "quali negozi ci sono entro quindici chilometri?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 1.0}
+{"id": "13974", "frase": "dov'è l'italia?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "12951", "frase": "qual è l'edificio più alto del mondo?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "3413", "frase": "sai quando sarà pronta la mia ordinazione?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.99}
+{"id": "7209", "frase": "puoi ricordarmi di portare fuori la spazzatura martedì?", "intento_vero": "calendar_set", "intento_jev": "calendar_set", "confidenza": 0.85}
+{"id": "4313", "frase": "pioverà domani a roma?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "13705", "frase": "cos'è un sistema a emissioni elettroniche?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "2859", "frase": "olly che ore sono in questa città?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.98}
+{"id": "7319", "frase": "cosa c'è oggi dalle quattordici alle sedici?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.99}
+{"id": "3441", "frase": "il ventidue è di mercoledì?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.99}
+{"id": "12623", "frase": "quali sono gli orari del treno per milano lombardia?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "14117", "frase": "dove sono i trulli?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.76}
+{"id": "7013", "frase": "a che ora inizia l' evento?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.99}
+{"id": "2035", "frase": "olly dov'è il mio cibo?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.86}
+{"id": "13135", "frase": "quand'è il compleanno di riccardo scamarcio?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.45}
+{"id": "12070", "frase": "quando apre le gru?", "intento_vero": "recommendation_events", "intento_jev": "iot_wemo_on", "confidenza": 0.37}
+{"id": "13863", "frase": "qual è la definizione di logica?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "4104", "frase": "che tempo farà oggi a la spezia?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "13693", "frase": "dove si trova il meridiano zero?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "11075", "frase": "quante liste ho?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 1.0}
+{"id": "16089", "frase": "ho ricevuto nuove email negli ultimi dieci minuti?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "1098", "frase": "in che giorno della settimana cade il quindici marzo?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.96}
+{"id": "1549", "frase": "pioverà questa settimana?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "4436", "frase": "quale giacca dovrei indossare?", "intento_vero": "weather_query", "intento_jev": "general_quirky", "confidenza": 0.76}
+{"id": "14597", "frase": "qual è la popolazione di roma?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "13074", "frase": "perché checco zalone non fa ridere?", "intento_vero": "qa_factoid", "intento_jev": "general_quirky", "confidenza": 0.83}
+{"id": "8084", "frase": "qual è il programma dell' evento?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.99}
+{"id": "4073", "frase": "che giorno sarà il cinque?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "4560", "frase": "che canzone è questa?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 1.0}
+{"id": "9562", "frase": "avvia questo programma?", "intento_vero": "play_radio", "intento_jev": "play_game", "confidenza": 0.27}
+{"id": "16229", "frase": "che contatto non chiamo da dodici mesi?", "intento_vero": "email_querycontact", "intento_jev": "email_querycontact", "confidenza": 0.65}
+{"id": "13552", "frase": "quanto fa sei diviso tre?", "intento_vero": "qa_maths", "intento_jev": "qa_maths", "confidenza": 1.0}
+{"id": "11782", "frase": "ci sono eventi speciali in programma questo fine settimana vicino a me?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 1.0}
+{"id": "4121", "frase": "a che ora hai impostato la sveglia?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 1.0}
+{"id": "5955", "frase": "la città è ben controllata e sicura?", "intento_vero": "weather_query", "intento_jev": "qa_factoid", "confidenza": 0.89}
+{"id": "11932", "frase": "cosa dovrei guardare oggi?", "intento_vero": "recommendation_movies", "intento_jev": "recommendation_movies", "confidenza": 0.87}
+{"id": "6720", "frase": "cosa sai della fashion week a milano l'anno prossimo?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 0.86}
+{"id": "13796", "frase": "qual è il tasso di cambio tra italia e svizzera?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "6023", "frase": "sarà una nottata umida?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "6892", "frase": "puoi darmi la programmazione dei film?", "intento_vero": "calendar_query", "intento_jev": "recommendation_events", "confidenza": 0.27}
+{"id": "15095", "frase": "dove si trova gallipoli?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "590", "frase": "qual è il meteo attuale?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "11778", "frase": "dove posso trovare una buona enoteca vicino a me?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 1.0}
+{"id": "588", "frase": "quali sono le notizie di oggi?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "14347", "frase": "cos'è un' ipotesi?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "3623", "frase": "cosa sta succedendo nel mondo oggi?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "13855", "frase": "quali sono i brani più popolari di lady gaga?", "intento_vero": "music_query", "intento_jev": "qa_factoid", "confidenza": 0.65}
+{"id": "5160", "frase": "puoi riprodurre la canzone di luciano ligabue?", "intento_vero": "play_music", "intento_jev": "play_music", "confidenza": 1.0}
+{"id": "16361", "frase": "ho ricevuto delle nuove email nell' ultima ora?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "14926", "frase": "quanto mi costerebbe comprare delle azioni della apple?", "intento_vero": "qa_stock", "intento_jev": "qa_stock", "confidenza": 1.0}
+{"id": "7232", "frase": "quali sono gli eventi della prossima settimana?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.99}
+{"id": "15075", "frase": "olly quando sono arrivati i pellegrini in america del nord?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.93}
+{"id": "10832", "frase": "olly cosa ho in programma dopo?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "2174", "frase": "chi canta hotel california?", "intento_vero": "music_query", "intento_jev": "qa_factoid", "confidenza": 0.58}
+{"id": "2387", "frase": "chi ha scritto questa canzone?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 0.98}
+{"id": "4178", "frase": "ci sono notizie sulle elezioni politiche?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "14504", "frase": "olly quanti incontri ebbe gandhi?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.96}
+{"id": "6172", "frase": "faccio bene a mettere gli occhiali da sole oggi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.64}
+{"id": "1264", "frase": "ho una sveglia impostata per domani mattina?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 1.0}
+{"id": "13780", "frase": "nicolò barella è sposato?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.98}
+{"id": "12817", "frase": "come arrivo al centro commerciale?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 0.99}
+{"id": "219", "frase": "dovrò prendere l'ombrello domani?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "4955", "frase": "vuoi vedere?", "intento_vero": "iot_hue_lightchange", "intento_jev": "general_quirky", "confidenza": 0.84}
+{"id": "4813", "frase": "che ore sono in un'altra città?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.59}
+{"id": "6645", "frase": "lavori per i servizi segreti?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.81}
+{"id": "6670", "frase": "conosci qualche schema per il lavoro a maglia che sia carino e gratis?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.75}
+{"id": "10493", "frase": "cosa c'è nella mia lista delle cose da fare?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 1.0}
+{"id": "14877", "frase": "quali sono le condizioni climatiche di quella zona?", "intento_vero": "qa_factoid", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "10206", "frase": "com'è preparato il riso?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 0.99}
+{"id": "6267", "frase": "come ti chiami?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.49}
+{"id": "1458", "frase": "quanto è caldo in veneto?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "3503", "frase": "com'è il tempo a trento?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "15249", "frase": "a qualcuno piace la mia foto che ho appena postato?", "intento_vero": "social_query", "intento_jev": "social_query", "confidenza": 0.94}
+{"id": "2684", "frase": "l'ultima ordinazione è pronta?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.99}
+{"id": "10132", "frase": "per quanto devo cucinare una bistecca per averla a media cottura?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 1.0}
+{"id": "15199", "frase": "cosa succede?", "intento_vero": "social_query", "intento_jev": "general_quirky", "confidenza": 0.61}
+{"id": "13252", "frase": "qual è stato il primo romanzo di grazia deledda?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "13758", "frase": "quanti anni ha laura pausini?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.99}
+{"id": "14700", "frase": "cos'è esattamente un'otturazione dei denti in resina?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 0.99}
+{"id": "1862", "frase": "a che ora suona la mia sveglia?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 1.0}
+{"id": "999", "frase": "puoi spegnere la luce?", "intento_vero": "iot_hue_lightoff", "intento_jev": "iot_hue_lightoff", "confidenza": 1.0}
+{"id": "16166", "frase": "puoi rispondere a carlotta che sarò impegnata con i progetti per le prossime tre settimane?", "intento_vero": "email_sendemail", "intento_jev": "email_sendemail", "confidenza": 0.76}
+{"id": "4968", "frase": "chi ha vinto le elezioni politiche quest'anno?", "intento_vero": "qa_factoid", "intento_jev": "news_query", "confidenza": 0.61}
+{"id": "14083", "frase": "dove abita attualmente lino banfi?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.86}
+{"id": "61", "frase": "che sveglie ho?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 0.98}
+{"id": "13199", "frase": "ti intendi di matematica?", "intento_vero": "qa_maths", "intento_jev": "qa_maths", "confidenza": 0.69}
+{"id": "15565", "frase": "scrivi a ryanair dicendo che non volerò più con loro?", "intento_vero": "social_post", "intento_jev": "email_sendemail", "confidenza": 0.83}
+{"id": "8129", "frase": "quali promemoria ho ancora?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.73}
+{"id": "16399", "frase": "ho ricevuto qualche nuova email?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "14323", "frase": "di che colore è un frutto del drago?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "11322", "frase": "quali sono i podcast di oggi?", "intento_vero": "play_podcasts", "intento_jev": "play_podcasts", "confidenza": 0.93}
+{"id": "2721", "frase": "hai qualche battuta divertente per me?", "intento_vero": "general_joke", "intento_jev": "general_joke", "confidenza": 1.0}
+{"id": "9956", "frase": "con cosa posso sostituire il burro?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 0.94}
+{"id": "16317", "frase": "ho nuove email da sara?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "11340", "frase": "enrico mentana ha un nuovo podcast?", "intento_vero": "play_podcasts", "intento_jev": "qa_factoid", "confidenza": 0.61}
+{"id": "3741", "frase": "quale brano è in riproduzione ora?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 1.0}
+{"id": "11953", "frase": "qual è il conad più vicino?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 1.0}
+{"id": "13513", "frase": "quante sono le zampe di un cane?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "4376", "frase": "com'è oggi fuori?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "11563", "frase": "cosa posso fare a pescara?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 0.56}
+{"id": "12582", "frase": "a che ora arriva il primo intercity la mattina?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "765", "frase": "potresti darmi le ultime notizie dalle testate del mio ultimo provider?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "4391", "frase": "quali sono le testate della rai?", "intento_vero": "news_query", "intento_jev": "qa_factoid", "confidenza": 0.94}
+{"id": "7844", "frase": "che promemoria ho impostato?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.63}
+{"id": "5027", "frase": "quand'è il prossimo venerdì tredici?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.99}
+{"id": "3742", "frase": "sai come si chiama la canzone in riproduzione?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 1.0}
+{"id": "1120", "frase": "c'e qualche speciale sulla politica?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 0.99}
+{"id": "16801", "frase": "carolina mi ha inviato delle email su tommaso?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "12366", "frase": "c'è un treno che va da londra a parigi e a che ora?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "12442", "frase": "com'è la situazione traffico in via del corso?", "intento_vero": "transport_traffic", "intento_jev": "transport_traffic", "confidenza": 1.0}
+{"id": "15809", "frase": "roberto mi ha scritto una email?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "16535", "frase": "puoi scrivete una email a carlotta?", "intento_vero": "email_sendemail", "intento_jev": "email_sendemail", "confidenza": 1.0}
+{"id": "15181", "frase": "ho qualche nuova richiesta di amicizia?", "intento_vero": "social_query", "intento_jev": "social_query", "confidenza": 0.99}
+{"id": "6013", "frase": "chi è alla radio?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 0.77}
+{"id": "15213", "frase": "cosa c'è di tendenza adesso?", "intento_vero": "news_query", "intento_jev": "general_quirky", "confidenza": 0.46}
+{"id": "13690", "frase": "di che colore sono le sedie?", "intento_vero": "qa_factoid", "intento_jev": "general_quirky", "confidenza": 0.55}
+{"id": "14706", "frase": "dove vive paola cortellesi?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.99}
+{"id": "12604", "frase": "come prenoto un biglietto del treno online?", "intento_vero": "transport_query", "intento_jev": "transport_ticket", "confidenza": 1.0}
+{"id": "7224", "frase": "dov'è il luogo in cui si terrà il matrimonio di tommaso?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.97}
+{"id": "944", "frase": "qual è la differenza di orario tra qui e l'italia?", "intento_vero": "datetime_convert", "intento_jev": "datetime_convert", "confidenza": 0.93}
+{"id": "11812", "frase": "che film danno stasera?", "intento_vero": "recommendation_movies", "intento_jev": "recommendation_movies", "confidenza": 0.5}
+{"id": "4780", "frase": "in che giorno cade quest'anno il mio compleanno del ventisette giugno?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.99}
+{"id": "8568", "frase": "puoi inviare al calendario invito a giacomo e alice per il brunch delle undici di mattina di martedì?", "intento_vero": "calendar_set", "intento_jev": "calendar_set", "confidenza": 1.0}
+{"id": "430", "frase": "com'è il meteo adesso?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "5307", "frase": "oggi è il venti marzo?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "12581", "frase": "quando passa il treno italo oggi?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "13412", "frase": "quanto fa quattro più cinque?", "intento_vero": "qa_maths", "intento_jev": "qa_maths", "confidenza": 1.0}
+{"id": "8828", "frase": "esiste l'evento in calendario?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "15056", "frase": "quanti anni ha il nuovo fidanzato di giulia de lellis?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.92}
+{"id": "8774", "frase": "la mia agenda è completamente libera per il sette luglio?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "527", "frase": "conosci qualche barzelletta?", "intento_vero": "general_joke", "intento_jev": "general_joke", "confidenza": 1.0}
+{"id": "15155", "frase": "puoi caricare sul mio account facebook il mio ultimo selfie?", "intento_vero": "social_post", "intento_jev": "social_post", "confidenza": 1.0}
+{"id": "3864", "frase": "chi canta la canzone che ascolto ora?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 1.0}
+{"id": "169", "frase": "fanno consegne?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.93}
+{"id": "15963", "frase": "ho qualche nuova email da parte di mulino bianco?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "1351", "frase": "sarà bello fuori questa settimana?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "2164", "frase": "quando si mangia?", "intento_vero": "takeaway_query", "intento_jev": "general_quirky", "confidenza": 0.29}
+{"id": "10150", "frase": "come fare la piadina?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 1.0}
+{"id": "1581", "frase": "qual è il giorno mese e anno corrente?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "6909", "frase": "cosa c'è dopo l'una e prima delle tre del pomeriggio?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.29}
+{"id": "15133", "frase": "come va atlantia?", "intento_vero": "qa_stock", "intento_jev": "general_greet", "confidenza": 0.49}
+{"id": "13165", "frase": "cosa significa oscillare?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "12818", "frase": "quanto costa un biglietto del treno per milano?", "intento_vero": "transport_query", "intento_jev": "transport_ticket", "confidenza": 0.68}
+{"id": "13847", "frase": "qual è il tasso di cambio per i soldi dell'italia?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "1509", "frase": "non fare nessun rumore fino alla sveglia di domani mattina?", "intento_vero": "audio_volume_mute", "intento_jev": "audio_volume_mute", "confidenza": 0.98}
+{"id": "16163", "frase": "chi mi ha inviato una email ieri?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 0.96}
+{"id": "14142", "frase": "quanto vale la sterlina?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "4312", "frase": "ci saranno meno di dieci gradi milano?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "4266", "frase": "com'è il tempo oggi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "5225", "frase": "qual è la data del prossimo mercoledì?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "12340", "frase": "puoi prenotare due biglietti del treno per questo venerdì per favore?", "intento_vero": "transport_ticket", "intento_jev": "transport_ticket", "confidenza": 1.0}
+{"id": "348", "frase": "pioverà domani?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "7690", "frase": "cosa mi aspetta?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.53}
+{"id": "8781", "frase": "ho impegni alle sedici?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "13124", "frase": "quanto è grande l'universo?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "8188", "frase": "che data è?", "intento_vero": "calendar_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "8782", "frase": "ho una riunione oggi pomeriggio?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "4355", "frase": "com'è il tempo alla mia posizione attuale?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "12672", "frase": "com'è il traffico in città?", "intento_vero": "transport_traffic", "intento_jev": "transport_traffic", "confidenza": 1.0}
+{"id": "6304", "frase": "come stai oggi?", "intento_vero": "general_quirky", "intento_jev": "general_greet", "confidenza": 1.0}
+{"id": "10776", "frase": "ho una lista della spesa pronta?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 0.96}
+{"id": "3654", "frase": "che musica pensi mi piaccia?", "intento_vero": "music_query", "intento_jev": "general_quirky", "confidenza": 0.51}
+{"id": "14395", "frase": "qual è il punto più profondo della terra?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "15321", "frase": "qualcuno ha commentato il mio stato?", "intento_vero": "social_query", "intento_jev": "social_query", "confidenza": 1.0}
+{"id": "14229", "frase": "in che film ha recitato claudia gerini?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "5439", "frase": "ho bisogno di un ombrello per la sera?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.97}
+{"id": "11514", "frase": "olly possiamo ascoltare il podcast di rispondere per favore?", "intento_vero": "play_podcasts", "intento_jev": "play_podcasts", "confidenza": 0.96}
+{"id": "6533", "frase": "sei felice?", "intento_vero": "general_quirky", "intento_jev": "general_greet", "confidenza": 0.74}
+{"id": "5552", "frase": "chi impiega meno tempo per la consegna a domicilio?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.95}
+{"id": "6747", "frase": "quanti promemoria ho?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.61}
+{"id": "13619", "frase": "ci sono degli eventi gratuiti nella mia zona oggi?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 1.0}
+{"id": "12629", "frase": "a che ora parte il primo treno da bologna?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "10045", "frase": "puoi darmi la ricetta per il brodo di pollo?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 1.0}
+{"id": "14585", "frase": "quanto tempo ci vorrà per viaggiare in italia dalla svizzera?", "intento_vero": "qa_factoid", "intento_jev": "transport_query", "confidenza": 0.99}
+{"id": "13035", "frase": "quanto da duecento diviso dieci?", "intento_vero": "qa_maths", "intento_jev": "qa_maths", "confidenza": 1.0}
+{"id": "4689", "frase": "sai com'è il tempo?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.99}
+{"id": "14857", "frase": "potresti spiegarmi il significato di esorbitante?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "1404", "frase": "posso per favore avere il tempo per domani qui a roma?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.63}
+{"id": "13927", "frase": "quanto vale leo messi?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.85}
+{"id": "3118", "frase": "qual è l'ora solare orientale proprio adesso?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.84}
+{"id": "5958", "frase": "puoi smettere di parlare per favore?", "intento_vero": "audio_volume_mute", "intento_jev": "audio_volume_mute", "confidenza": 1.0}
+{"id": "12675", "frase": "il traffico è leggero?", "intento_vero": "transport_traffic", "intento_jev": "transport_traffic", "confidenza": 1.0}
+{"id": "1065", "frase": "dove si imposta il volume?", "intento_vero": "audio_volume_other", "intento_jev": "audio_volume_other", "confidenza": 0.86}
+{"id": "1594", "frase": "puoi dirmi le ultime notizie?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "6710", "frase": "sei reale?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.94}
+{"id": "355", "frase": "che giorno della settimana è il primo di aprile?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.95}
+{"id": "3702", "frase": "olly ho qualche sveglia impostata per domani?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 1.0}
+{"id": "13717", "frase": "puoi davvero vedere l'italia dalla sicilia?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.66}
+{"id": "13688", "frase": "qual è l'ultimo tasso di cambio con la svizzera?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "15382", "frase": "puoi contattare samsung e dire che la mia lavatrice va a fuoco?", "intento_vero": "social_post", "intento_jev": "social_post", "confidenza": 0.65}
+{"id": "2673", "frase": "mi sono ricordato di impostare una sveglia promemoria per la mia prossima visita medica?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 0.59}
+{"id": "14919", "frase": "come sono andate le azioni megatel la scorsa settimana?", "intento_vero": "qa_stock", "intento_jev": "qa_stock", "confidenza": 1.0}
+{"id": "11616", "frase": "ci sono eventi in programma stasera in centro?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 0.98}
+{"id": "14130", "frase": "qual è il prezzo delle azioni moncler?", "intento_vero": "qa_stock", "intento_jev": "qa_stock", "confidenza": 1.0}
+{"id": "9197", "frase": "cosa ho di programmato per questa settimana?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "15055", "frase": "è più caldo il polo sud o il polo nord?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.98}
+{"id": "12182", "frase": "quali sono le condizioni del traffico sulla s. s. sedici?", "intento_vero": "transport_traffic", "intento_jev": "transport_traffic", "confidenza": 1.0}
+{"id": "13762", "frase": "trentatré trentini andarono a trento tutti e trentatré trotterellando?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.84}
+{"id": "3566", "frase": "che ore sono a roma?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.86}
+{"id": "13934", "frase": "come vanno le azioni in generale?", "intento_vero": "qa_stock", "intento_jev": "qa_stock", "confidenza": 0.95}
+{"id": "16890", "frase": "cosa dice la nuova email?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "3606", "frase": "che ore sono a pechino?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.6}
+{"id": "12999", "frase": "quanti anni ha gianna nannini?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.99}
+{"id": "7500", "frase": "puoi eliminare il prossimo evento?", "intento_vero": "calendar_remove", "intento_jev": "calendar_remove", "confidenza": 1.0}
+{"id": "4136", "frase": "riproduci imogen heap?", "intento_vero": "play_music", "intento_jev": "play_music", "confidenza": 1.0}
+{"id": "7966", "frase": "ti ho chiesto di ricordarmi qualcosa?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.42}
+{"id": "11861", "frase": "qual è il film più consigliato del momento?", "intento_vero": "recommendation_movies", "intento_jev": "recommendation_movies", "confidenza": 1.0}
+{"id": "7496", "frase": "ho appuntamenti oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "1722", "frase": "qual è la temperatura minima di torino?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "2957", "frase": "c'è una sveglia per le dieci di mattina?", "intento_vero": "alarm_query", "intento_jev": "alarm_set", "confidenza": 0.51}
+{"id": "8029", "frase": "quali eventi sono in programma per oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.63}
+{"id": "4491", "frase": "quali sono le ultime notizie su silvio berlusconi?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "2165", "frase": "la cena è già pronta?", "intento_vero": "takeaway_query", "intento_jev": "cooking_query", "confidenza": 0.84}
+{"id": "12685", "frase": "com'è il traffico adesso?", "intento_vero": "transport_traffic", "intento_jev": "transport_traffic", "confidenza": 1.0}
+{"id": "14505", "frase": "chi è il primo ministro della russia al momento?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "4400", "frase": "quali sono gli articoli in tendenza sul corriere della sera?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "12618", "frase": "quanto costa un biglietto del treno andata e ritorno per milano?", "intento_vero": "transport_query", "intento_jev": "transport_ticket", "confidenza": 0.74}
+{"id": "3870", "frase": "a che ora suonerà la sveglia che ho messo per il volo questo fine settimana?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 1.0}
+{"id": "11636", "frase": "film vicino ame?", "intento_vero": "recommendation_movies", "intento_jev": "recommendation_movies", "confidenza": 0.39}
+{"id": "16589", "frase": "chi è l'ultimo contatto che mi ha chiamato?", "intento_vero": "email_querycontact", "intento_jev": "email_querycontact", "confidenza": 0.81}
+{"id": "14063", "frase": "qual è il compleanno di cesare cremonini?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.67}
+{"id": "7266", "frase": "quali sono i miei impegni in sospeso?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.96}
+{"id": "14442", "frase": "dove si trovano le isole fiji?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "10093", "frase": "come si fa la lasagna?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 1.0}
+{"id": "5529", "frase": "a che ora dovrei uscire per un escursione?", "intento_vero": "weather_query", "intento_jev": "qa_factoid", "confidenza": 0.31}
+{"id": "13516", "frase": "perché le balene sono grandi?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.99}
+{"id": "13150", "frase": "puoi cucinare qualcosa di speciale per me e mia moglie?", "intento_vero": "general_quirky", "intento_jev": "cooking_recipe", "confidenza": 0.91}
+{"id": "1744", "frase": "cosa ne pensi?", "intento_vero": "music_likeness", "intento_jev": "general_quirky", "confidenza": 0.94}
+{"id": "170", "frase": "consegna a casa?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.9}
+{"id": "10684", "frase": "quante liste ho chiesto?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 0.95}
+{"id": "1160", "frase": "quanto sarà freddo ogni notte questa settimana?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "10220", "frase": "quali ingredienti mi servono per preparare una grande torta?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 0.98}
+{"id": "14995", "frase": "cosa significa situazione?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "16710", "frase": "quanti miei contatti vivono o lavorano a milano?", "intento_vero": "email_querycontact", "intento_jev": "email_querycontact", "confidenza": 0.82}
+{"id": "13115", "frase": "qual è la capitale della nigeria?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "4482", "frase": "avrò bisogno di spalare il mio vialetto questa mattina?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.99}
+{"id": "10718", "frase": "puoi rimuovere questo elemento dalla lista?", "intento_vero": "lists_remove", "intento_jev": "lists_remove", "confidenza": 1.0}
+{"id": "8824", "frase": "cosa ho in programma per il diciannove alle due di pomeriggio?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "13926", "frase": "qual è la data di nascita di montale?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.67}
+{"id": "4882", "frase": "che ore sono in una città?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.96}
+{"id": "9175", "frase": "il mio calendario è stato aggiornato negli ultimi dieci minuti?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.99}
+{"id": "10076", "frase": "si può sostituire il burro con l' olio?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 0.98}
+{"id": "2850", "frase": "burger king fa da asporto?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.93}
+{"id": "6623", "frase": "chi ti ha programmato?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.74}
+{"id": "15845", "frase": "come è arrivato a noi?", "intento_vero": "email_sendemail", "intento_jev": "qa_factoid", "confidenza": 0.53}
+{"id": "16373", "frase": "ho ricevuto qualche mail con numeri di tracking?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "14605", "frase": "romina power ha lasciato al bano?", "intento_vero": "qa_factoid", "intento_jev": "play_music", "confidenza": 0.26}
+{"id": "4439", "frase": "che tempo fa a bologna?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "13854", "frase": "quando è morto elvis?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.78}
+{"id": "6434", "frase": "puoi parlarmi di te?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.91}
+{"id": "3995", "frase": "olly che giorno della settimana è halloween?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.95}
+{"id": "5671", "frase": "che ore sono a parigi?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.65}
+{"id": "7762", "frase": "quali promemoria ho?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.77}
+{"id": "9912", "frase": "olly quanto devo bollire le uova?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 1.0}
+{"id": "12402", "frase": "a che or ail prossimo treno di città parte da qui?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "16461", "frase": "ho qualche email non letta?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "3426", "frase": "quanti gradi ci sono fuori?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "6024", "frase": "dovrei mettere un maglione o un cappotto per andare al lavoro oggi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.95}
+{"id": "10053", "frase": "come si fa la pizza?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 1.0}
+{"id": "3349", "frase": "dov'è la macchina?", "intento_vero": "audio_volume_up", "intento_jev": "transport_query", "confidenza": 0.34}
+{"id": "11969", "frase": "c'è qualche evento particolare nelle vicinanze?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 1.0}
+{"id": "1653", "frase": "quando pioverà la prossima volta?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "8846", "frase": "ho qualcosa fissato per il quattro luglio di quest'anno?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.99}
+{"id": "6025", "frase": "mi servirà la crema solare questo pomeriggio?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.96}
+{"id": "6946", "frase": "ci sono degli incontri impostati per il prossimo mercoledì?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "2320", "frase": "che tempo farà questo venerdì?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "14330", "frase": "dove è nato steve jobs?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "14011", "frase": "quand'è il compleanno di carlo verdone?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.6}
+{"id": "12376", "frase": "qual è la prima metro per milano?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "14912", "frase": "dov'è nato giuseppe conte?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "5411", "frase": "quali sono le notizie principali sul tg com ventiquattro?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "9942", "frase": "cosa c'è dentro la torta mimosa?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 0.44}
+{"id": "17075", "frase": "ci sono nuove email ricevute dopo le quattro di oggi?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "13684", "frase": "qual è il prezzo del dollaro in euro?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "2921", "frase": "quali sono le novità sul sito di sky tg ventiquattro?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "317", "frase": "non parlare oggi?", "intento_vero": "audio_volume_mute", "intento_jev": "audio_volume_mute", "confidenza": 0.8}
+{"id": "15789", "frase": "olly ho qualche nuova email?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "15039", "frase": "olly dove cominciano le dolomiti?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.99}
+{"id": "4402", "frase": "devo girare con l'ombrello oggi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "2812", "frase": "puoi farmi una tazza di caffè?", "intento_vero": "iot_coffee", "intento_jev": "iot_coffee", "confidenza": 1.0}
+{"id": "13506", "frase": "puoi dirmi che ore sono?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "837", "frase": "quali sono le predizioni dei sondaggi di repubblica per le prossime elezioni politiche?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 0.86}
+{"id": "9494", "frase": "potresti per favore sintonizzarti sulla stazione radio f. m. che propone canzoni pop?", "intento_vero": "play_radio", "intento_jev": "play_radio", "confidenza": 1.0}
+{"id": "12240", "frase": "com'è il traffico per il ritorno a casa alle cinque?", "intento_vero": "transport_query", "intento_jev": "transport_traffic", "confidenza": 1.0}
+{"id": "14683", "frase": "quali sono gli hobby di riccardo scamarcio?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.98}
+{"id": "7539", "frase": "ho qualcosa in programma?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.98}
+{"id": "14355", "frase": "trentatré trentini entrarono a trento tutti e trentatré trotterellando?", "intento_vero": "qa_factoid", "intento_jev": "general_quirky", "confidenza": 0.62}
+{"id": "8182", "frase": "puoi cancellare l' appuntamento dal dentista?", "intento_vero": "calendar_remove", "intento_jev": "calendar_remove", "confidenza": 1.0}
+{"id": "13639", "frase": "qual è stata l'entità dell'aumento di valore delle azioni della disney durante la scorsa settimana?", "intento_vero": "qa_stock", "intento_jev": "qa_stock", "confidenza": 1.0}
+{"id": "13486", "frase": "puoi farmi vedere la lista di tutte le mie richieste più recenti?", "intento_vero": "general_quirky", "intento_jev": "lists_query", "confidenza": 0.83}
+{"id": "14228", "frase": "quanto vale l'euro in italia?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 0.99}
+{"id": "13407", "frase": "quali sono le cause dell'osteoporosi?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "6319", "frase": "pensi che debba andare a teatro oggi?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.48}
+{"id": "424", "frase": "quali sono le notizie dell'ultima ora?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "15970", "frase": "qual è l'oggetto dell'ultima email di mamma?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "13303", "frase": "puoi prepararmi la cena?", "intento_vero": "general_quirky", "intento_jev": "cooking_recipe", "confidenza": 0.75}
+{"id": "5953", "frase": "la città è più economica o più costosa per vivere?", "intento_vero": "weather_query", "intento_jev": "qa_factoid", "confidenza": 0.97}
+{"id": "14791", "frase": "com'è fatta una sedia?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.82}
+{"id": "11695", "frase": "quale film d'azione mi consigli?", "intento_vero": "recommendation_movies", "intento_jev": "recommendation_movies", "confidenza": 1.0}
+{"id": "7026", "frase": "che eventi ci sono nella mia città questa settimana?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 0.99}
+{"id": "3993", "frase": "puoi far spegnere le luci?", "intento_vero": "iot_hue_lightoff", "intento_jev": "iot_hue_lightoff", "confidenza": 1.0}
+{"id": "14884", "frase": "qual è la regione meno incline ai tornado in tutta l'italia?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.96}
+{"id": "14038", "frase": "dove si trova la moldavia?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "5497", "frase": "che differenza di orario c'è tra roma e berlino?", "intento_vero": "datetime_convert", "intento_jev": "datetime_convert", "confidenza": 0.9}
+{"id": "6572", "frase": "hai un fidanzato?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.91}
+{"id": "5427", "frase": "che ora è adesso in italia?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.97}
+{"id": "738", "frase": "quanto freddo fa fuori oggi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "1993", "frase": "puoi accendere le luci?", "intento_vero": "iot_hue_lightup", "intento_jev": "iot_hue_lighton", "confidenza": 1.0}
+{"id": "15124", "frase": "quanti dollari posso avere con un euro?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "16662", "frase": "ho qualche nuova email da daniele?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "4933", "frase": "pioverà adesso?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "14608", "frase": "qual è il nuovo film che sta girando miriam leone?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.96}
+{"id": "14096", "frase": "dove sono le dolomiti?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "5301", "frase": "come sarà il meteo il ventidue marzo duemila ventidue?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "14673", "frase": "puoi parlarmi del regno animale nella foresta amazzonica?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 0.99}
+{"id": "3586", "frase": "com'è il tempo a pechino?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "1589", "frase": "sarà soleggiato martedì prossimo?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "2777", "frase": "devo prendere un ombrello oggi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "5997", "frase": "che ora è nel fuso orario centrale?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.89}
+{"id": "4334", "frase": "cosa c'è sul mio feed di facebook?", "intento_vero": "social_query", "intento_jev": "social_query", "confidenza": 1.0}
+{"id": "8001", "frase": "puoi cancellare il taglio di capelli che ho fissato per venerdì?", "intento_vero": "calendar_remove", "intento_jev": "calendar_remove", "confidenza": 1.0}
+{"id": "6596", "frase": "quando sono tornata da questo posto?", "intento_vero": "general_quirky", "intento_jev": "datetime_query", "confidenza": 0.74}
+{"id": "281", "frase": "qual è il tasso di cambio tra euro e sterlina?", "intento_vero": "news_query", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "310", "frase": "che giorno è capodanno quest'anno?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "16899", "frase": "ho ricevuto qualche email da pietro bianchi?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 0.99}
+{"id": "4580", "frase": "che ora è a parigi?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.59}
+{"id": "6439", "frase": "hai ascoltato della buona musica ultimamente?", "intento_vero": "general_quirky", "intento_jev": "general_greet", "confidenza": 0.43}
+{"id": "16672", "frase": "roberto mi ha contattato?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 0.54}
+{"id": "4524", "frase": "olly quali sono le previsioni del tempo oggi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "16357", "frase": "franco mi ha mandato una mail sulle munizioni?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "10023", "frase": "cosa mi serve per preparare l' hummus?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 1.0}
+{"id": "14490", "frase": "quando è stato costruito il teatro alla scala?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.81}
+{"id": "15010", "frase": "quanto vale un euro in inghilterra?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "16165", "frase": "carlotta ha risposto?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 0.56}
+{"id": "4487", "frase": "pioverà giovedì?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "12162", "frase": "potresti prenotare un biglietto del treno?", "intento_vero": "transport_ticket", "intento_jev": "transport_ticket", "confidenza": 1.0}
+{"id": "216", "frase": "com'è il tempo oggi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "6093", "frase": "devo aprire il tettuccio?", "intento_vero": "weather_query", "intento_jev": "iot_wemo_on", "confidenza": 0.58}
+{"id": "5009", "frase": "avrò bisogno di un ombrello questa settimana?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "13546", "frase": "qual è l'ultimo film di sergio castellito?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.99}
+{"id": "13487", "frase": "qual è il capoluogo della sicilia?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "13685", "frase": "il tasso di cambio del dollaro è aumentato?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "8535", "frase": "mi ricorderai l' appuntamento dal dentista che ho tra due ore?", "intento_vero": "calendar_set", "intento_jev": "calendar_set", "confidenza": 0.68}
+{"id": "14444", "frase": "qual è stato il primo film di morgan freeman?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "15214", "frase": "quali sono le novità di oggi?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "8148", "frase": "ho lasciato qualche promemoria?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.75}
+{"id": "4680", "frase": "dovrei indossare sandali o scarpe con i calzini?", "intento_vero": "weather_query", "intento_jev": "general_quirky", "confidenza": 0.86}
+{"id": "7219", "frase": "hai messo il promemoria per l' incontro di domani?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.68}
+{"id": "14658", "frase": "qual è il tasso di cambio tra euro e dollaro?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "14239", "frase": "quanto vale il dollaro statunitense in confronto alla sterlina?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "2780", "frase": "ci sono tra poco dei concerti di?", "intento_vero": "music_likeness", "intento_jev": "recommendation_events", "confidenza": 0.98}
+{"id": "3091", "frase": "che ore sono nel fuso orario del pacifico?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.85}
+{"id": "4710", "frase": "che giorno è halloween quest'anno?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "1249", "frase": "com'è probabile che sia il tempo questa settimana?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "5996", "frase": "avrò bisogno dei miei stivali da neve questo pomeriggio?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.98}
+{"id": "16168", "frase": "è arrivata qualche email negli ultimi quindici minuti?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "7927", "frase": "cosa devo fare questa settimana?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.91}
+{"id": "7666", "frase": "puoi segnare che ho una riunione con tommaso alle tre di domani?", "intento_vero": "calendar_set", "intento_jev": "calendar_set", "confidenza": 1.0}
+{"id": "14317", "frase": "quali sono le dimensioni degli stati uniti?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "6127", "frase": "mi consigli di portare un ombrello?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.99}
+{"id": "3305", "frase": "che tempo fa questa settimana a napoli?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "10078", "frase": "cosa devo cucinare per cena?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 0.97}
+{"id": "13459", "frase": "quanto fa dodici diviso quattro?", "intento_vero": "qa_maths", "intento_jev": "qa_maths", "confidenza": 1.0}
+{"id": "7908", "frase": "devo fare qualcosa oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.92}
+{"id": "6385", "frase": "quali caratteristiche nuove verranno rilasciate in futuro?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 0.58}
+{"id": "12987", "frase": "puoi tracciare le mie emozioni da come parlo?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.98}
+{"id": "12789", "frase": "puoi dirmi com'è il traffico?", "intento_vero": "transport_traffic", "intento_jev": "transport_traffic", "confidenza": 1.0}
+{"id": "9918", "frase": "come fare la pizza?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 1.0}
+{"id": "6926", "frase": "è venerdì?", "intento_vero": "calendar_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "13714", "frase": "cos'è un melograno?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 0.99}
+{"id": "9931", "frase": "olly per quanto tempo devo far bollire un uovo?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 1.0}
+{"id": "7777", "frase": "ho un appuntamento oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "5038", "frase": "che tempo fa questa settimana?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "3671", "frase": "posso ordinare da asporto in questo ristorante?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.65}
+{"id": "5414", "frase": "metti su un po' di musica?", "intento_vero": "play_music", "intento_jev": "play_music", "confidenza": 0.93}
+{"id": "16523", "frase": "potresti darmi le informazioni di contatto di giovanna?", "intento_vero": "email_querycontact", "intento_jev": "email_querycontact", "confidenza": 1.0}
+{"id": "7502", "frase": "qual è il programma della riunione delle sedici con giovanni?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "1833", "frase": "puoi mandare in loop la playlist delle colonne sonore?", "intento_vero": "play_music", "intento_jev": "music_settings", "confidenza": 0.92}
+{"id": "6457", "frase": "sei intelligente?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.97}
+{"id": "10563", "frase": "puoi crearmi una lista?", "intento_vero": "lists_createoradd", "intento_jev": "lists_createoradd", "confidenza": 1.0}
+{"id": "10048", "frase": "come si fa il tacchino?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 0.98}
+{"id": "3214", "frase": "qual è lo stato attuale dell' investigazione sui legami di trump con la russia?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 0.9}
+{"id": "13288", "frase": "qual è la definizione della parola perpetuo?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "9438", "frase": "puoi riprodurre un brano rap dalla radio?", "intento_vero": "play_radio", "intento_jev": "play_music", "confidenza": 0.57}
+{"id": "1090", "frase": "puoi aumentare la luminosità della stanza?", "intento_vero": "iot_hue_lightup", "intento_jev": "iot_hue_lightup", "confidenza": 1.0}
+{"id": "486", "frase": "che ore sono a new york?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.67}
+{"id": "3554", "frase": "puoi mettere la playlist dell'amore?", "intento_vero": "play_music", "intento_jev": "play_music", "confidenza": 1.0}
+{"id": "7189", "frase": "ho qualcosa in programma?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.97}
+{"id": "2094", "frase": "che musica è questa?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 1.0}
+{"id": "11107", "frase": "qual è la mia lista attuale?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 1.0}
+{"id": "11954", "frase": "c'è un teatro nella mia zona?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 0.87}
+{"id": "14925", "frase": "le azioni di bper sono salite o scese?", "intento_vero": "qa_stock", "intento_jev": "qa_stock", "confidenza": 1.0}
+{"id": "13798", "frase": "qual è l'estensione media in miglia quadrate delle terre emerse?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "6646", "frase": "oggi cos'è la cosa più cercata su google?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 0.81}
+{"id": "9620", "frase": "posso sentire la cura in radio in camera da letto?", "intento_vero": "play_radio", "intento_jev": "play_radio", "confidenza": 0.98}
+{"id": "6967", "frase": "puoi controllare le notizie su questo problema?", "intento_vero": "calendar_query", "intento_jev": "news_query", "confidenza": 1.0}
+{"id": "9941", "frase": "come si cucina il pollo arrosto?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 0.99}
+{"id": "4496", "frase": "che cosa ha postato oggi vogue?", "intento_vero": "news_query", "intento_jev": "social_query", "confidenza": 1.0}
+{"id": "7662", "frase": "puoi elencarmi le mie riunioni di oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "9674", "frase": "puoi riprodurre il mio audiolibro preferito de il libro della giungla?", "intento_vero": "play_audiobook", "intento_jev": "play_audiobook", "confidenza": 1.0}
+{"id": "11867", "frase": "c'è qualche evento sportivo domani a milano?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 0.98}
+{"id": "6962", "frase": "posso sapere cosa devo fare sabato prossimo alle diciotto?", "intento_vero": "calendar_set", "intento_jev": "calendar_query", "confidenza": 0.99}
+{"id": "10125", "frase": "che differenza c'è tra il forno e la griglia?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 0.94}
+{"id": "8579", "frase": "di quali informazioni ho bisogno per le riunioni di oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "12252", "frase": "a che ora partono i treni per treviso?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "6039", "frase": "pioverà domani?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "4463", "frase": "quanti sabati ci sono a marzo?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.78}
+{"id": "13734", "frase": "cosa c'è in vendita da moncler?", "intento_vero": "qa_stock", "intento_jev": "qa_factoid", "confidenza": 0.66}
+{"id": "9112", "frase": "aggiungi questo al mio calendario?", "intento_vero": "calendar_set", "intento_jev": "calendar_set", "confidenza": 1.0}
+{"id": "2801", "frase": "che ore sono a londra?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.67}
+{"id": "14429", "frase": "cos'è un caftano?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "14190", "frase": "quanto costano le azioni di luxottica in questi giorni?", "intento_vero": "qa_stock", "intento_jev": "qa_stock", "confidenza": 1.0}
+{"id": "13823", "frase": "quanto è lontano il sole?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "15113", "frase": "qual è la geologia di questo posto?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 0.95}
+{"id": "11916", "frase": "ci sono parchi a tema qui vicino?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_locations", "confidenza": 0.94}
+{"id": "6495", "frase": "mi puoi consigliare per favore?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.79}
+{"id": "4712", "frase": "non svegliarmi domani?", "intento_vero": "alarm_remove", "intento_jev": "alarm_remove", "confidenza": 0.76}
+{"id": "16711", "frase": "i miei contatti sono per lo più donne o uomini?", "intento_vero": "email_querycontact", "intento_jev": "email_querycontact", "confidenza": 0.64}
+{"id": "9738", "frase": "potresti suonare della musica classica per me per favore?", "intento_vero": "play_music", "intento_jev": "play_music", "confidenza": 1.0}
+{"id": "491", "frase": "fa freddo fuori?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "8336", "frase": "a che ora è il mio brunch con anna?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "974", "frase": "che ora è a new york adesso?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.71}
+{"id": "13867", "frase": "dov'è il parco nazionale del cilento?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "826", "frase": "qual è la temperatura esterna al momento?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "12982", "frase": "che cosa significa turbolenza?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "197", "frase": "che ore sono?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "13361", "frase": "qual è la definizione di tempestività?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "10061", "frase": "cosa posso fare per cena?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_recipe", "confidenza": 0.9}
+{"id": "6446", "frase": "c'è una toelettatura solo per gatti in città?", "intento_vero": "general_quirky", "intento_jev": "recommendation_locations", "confidenza": 0.98}
+{"id": "5966", "frase": "puoi ordinarmi del cibo?", "intento_vero": "takeaway_order", "intento_jev": "takeaway_order", "confidenza": 1.0}
+{"id": "16228", "frase": "è il compleanno di qualcuno questo mese?", "intento_vero": "email_querycontact", "intento_jev": "calendar_query", "confidenza": 0.93}
+{"id": "11841", "frase": "ci sono delle fiere dell'artigianato in programma in zona?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 1.0}
+{"id": "8043", "frase": "a che ora è il mio prossimo appuntamento?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "6378", "frase": "cosa fai con i miei dati e le mie informazioni?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.83}
+{"id": "2517", "frase": "come avvio il robot aspirapolvere?", "intento_vero": "iot_cleaning", "intento_jev": "iot_cleaning", "confidenza": 1.0}
+{"id": "13192", "frase": "qual è la radice di seicentoventicinque?", "intento_vero": "qa_maths", "intento_jev": "qa_maths", "confidenza": 1.0}
+{"id": "171", "frase": "olly consegnano a casa?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.87}
+{"id": "6616", "frase": "quanti anni hai?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.93}
+{"id": "8230", "frase": "quanto durerà il mio incontro a pranzo martedì?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "2412", "frase": "puoi dirmi che ore sono a londra?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.61}
+{"id": "14767", "frase": "come descriveresti una palla?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 0.63}
+{"id": "10757", "frase": "quali elementi ci sono nella mia lista della spesa?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 1.0}
+{"id": "10738", "frase": "per favore puoi aggiungere un elemento alla mia lista della spesa?", "intento_vero": "lists_createoradd", "intento_jev": "lists_createoradd", "confidenza": 1.0}
+{"id": "4851", "frase": "ho impostato la mia sveglia?", "intento_vero": "alarm_query", "intento_jev": "alarm_set", "confidenza": 0.57}
+{"id": "13473", "frase": "quando è stata liberata l' italia?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.71}
+{"id": "9923", "frase": "quanto devo far bollire un uovo?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 1.0}
+{"id": "14150", "frase": "cosa sono le scarpe converse?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 0.98}
+{"id": "13774", "frase": "quanto dista la calabria dal veneto?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.92}
+{"id": "13580", "frase": "quanto è alto il monte everest?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "2927", "frase": "che ora è ad austin?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.85}
+{"id": "5544", "frase": "chi è il direttore musicale di questo brano?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 0.98}
+{"id": "1646", "frase": "c'è qualche sveglia per oggi?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 0.99}
+{"id": "1655", "frase": "nevicherà domani a mezzogiorno?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.48}
+{"id": "4362", "frase": "che ore sono a cleveland?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.79}
+{"id": "1379", "frase": "fratelli la bufala fa consegna a domicilio?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 1.0}
+{"id": "1176", "frase": "chi canta la canzone sul lungo treno nero?", "intento_vero": "music_query", "intento_jev": "music_query", "confidenza": 0.56}
+{"id": "12866", "frase": "qual è l'orario di italo?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "13777", "frase": "puoi descrivermi una carta di credito?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 0.99}
+{"id": "6891", "frase": "ci sono spettacoli mattutini disponibili?", "intento_vero": "calendar_query", "intento_jev": "recommendation_events", "confidenza": 0.76}
+{"id": "4461", "frase": "da china town non si può ordinare da asporto?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 1.0}
+{"id": "13221", "frase": "come fa miriam leone a essere così bella?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.79}
+{"id": "9969", "frase": "con quali ingredienti posso sostituire lo zafferano?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 0.96}
+{"id": "6617", "frase": "cosa pensi del futuro?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.99}
+{"id": "10679", "frase": "cosa c'è nella mia lista delle cose da fare di oggi?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 1.0}
+{"id": "9225", "frase": "puoi accendere la radio?", "intento_vero": "play_radio", "intento_jev": "play_radio", "confidenza": 0.92}
+{"id": "8975", "frase": "che riunioni sono fissate per oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "5037", "frase": "quanto freddo fa oggi?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "9629", "frase": "puoi aiutarmi per ascoltare la radio?", "intento_vero": "play_radio", "intento_jev": "play_radio", "confidenza": 1.0}
+{"id": "4001", "frase": "cosa è successo in don matteo?", "intento_vero": "news_query", "intento_jev": "qa_factoid", "confidenza": 0.67}
+{"id": "12838", "frase": "com'è il traffico al momento?", "intento_vero": "transport_traffic", "intento_jev": "transport_traffic", "confidenza": 1.0}
+{"id": "13102", "frase": "quanto fa uno più uno?", "intento_vero": "qa_maths", "intento_jev": "qa_maths", "confidenza": 1.0}
+{"id": "1803", "frase": "che squadre giocano oggi in serie a?", "intento_vero": "news_query", "intento_jev": "qa_factoid", "confidenza": 0.73}
+{"id": "3406", "frase": "qual è la previsione meteo per dieci giorni?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "15847", "frase": "come possiamo ottenere credito?", "intento_vero": "email_sendemail", "intento_jev": "qa_factoid", "confidenza": 0.72}
+{"id": "4492", "frase": "quali sono gli ultimi dati sulla criminalità nella mia zona?", "intento_vero": "news_query", "intento_jev": "news_query", "confidenza": 0.65}
+{"id": "1483", "frase": "che sveglie ho impostato?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 1.0}
+{"id": "10931", "frase": "cosa c'è nella mia playlist?", "intento_vero": "lists_query", "intento_jev": "lists_query", "confidenza": 0.67}
+{"id": "8347", "frase": "che cosa succede il quattro dicembre?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.7}
+{"id": "10119", "frase": "quanto ci vuole a cuocere un pollo di un chilo e mezzo?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 1.0}
+{"id": "13616", "frase": "dove trascorrono il tempo libero le persone famose?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.86}
+{"id": "5579", "frase": "puoi portare il volume al?", "intento_vero": "audio_volume_other", "intento_jev": "audio_volume_other", "confidenza": 0.88}
+{"id": "12066", "frase": "che negozi ci sono vicino a me?", "intento_vero": "recommendation_locations", "intento_jev": "recommendation_locations", "confidenza": 1.0}
+{"id": "15983", "frase": "qual è l' indirizzo email di teresa?", "intento_vero": "email_querycontact", "intento_jev": "email_querycontact", "confidenza": 1.0}
+{"id": "686", "frase": "che ore sono adesso a new york?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 0.8}
+{"id": "168", "frase": "fanno da asporto?", "intento_vero": "takeaway_query", "intento_jev": "takeaway_query", "confidenza": 0.91}
+{"id": "14015", "frase": "quali sono le coordinate dell'equatore?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "12189", "frase": "come arrivo alla stazione per un biglietto?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 0.77}
+{"id": "10296", "frase": "puoi avviare il gioco temple run per favore?", "intento_vero": "play_game", "intento_jev": "play_game", "confidenza": 1.0}
+{"id": "4784", "frase": "ho bisogno di una giacca?", "intento_vero": "weather_query", "intento_jev": "general_quirky", "confidenza": 0.63}
+{"id": "5006", "frase": "a che ora sono impostate le mie sveglie?", "intento_vero": "alarm_query", "intento_jev": "alarm_query", "confidenza": 1.0}
+{"id": "9971", "frase": "quali pentole conducono meglio il calore quelle in rame o in ghisa?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 0.79}
+{"id": "12436", "frase": "quanto ci vorrà per arrivare in aeroporto?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 0.78}
+{"id": "16652", "frase": "la email di mauro aveva un allegato?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "14268", "frase": "sai fare nove più due?", "intento_vero": "qa_maths", "intento_jev": "qa_maths", "confidenza": 1.0}
+{"id": "3852", "frase": "che tempo hanno a roma in questo momento?", "intento_vero": "weather_query", "intento_jev": "datetime_query", "confidenza": 0.83}
+{"id": "11875", "frase": "c'è una sagra in zona?", "intento_vero": "recommendation_events", "intento_jev": "recommendation_events", "confidenza": 1.0}
+{"id": "6785", "frase": "qual è il prossimo promemoria?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 0.93}
+{"id": "15305", "frase": "ho qualche notifica dal social media?", "intento_vero": "calendar_query", "intento_jev": "social_query", "confidenza": 1.0}
+{"id": "10956", "frase": "quali gruppi sono elencati tra i miei contatti?", "intento_vero": "lists_query", "intento_jev": "email_querycontact", "confidenza": 0.55}
+{"id": "14170", "frase": "bianca balti usa le converse?", "intento_vero": "qa_factoid", "intento_jev": "general_quirky", "confidenza": 0.46}
+{"id": "14189", "frase": "qual è il prezzo delle azioni di bper?", "intento_vero": "qa_stock", "intento_jev": "qa_stock", "confidenza": 1.0}
+{"id": "9962", "frase": "qual è il miglior modo per cucinare la pasta al dente?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 0.84}
+{"id": "2678", "frase": "piove stasera?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "11920", "frase": "che film escono questa settimana?", "intento_vero": "recommendation_movies", "intento_jev": "recommendation_movies", "confidenza": 0.58}
+{"id": "3361", "frase": "che giorno è il prossimo martedì?", "intento_vero": "datetime_query", "intento_jev": "datetime_query", "confidenza": 1.0}
+{"id": "13895", "frase": "puoi parlarmi di roberto baggio?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.94}
+{"id": "13908", "frase": "puoi dirmi cosa significa esterrefatto?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "6178", "frase": "devo mettere la giacca?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.6}
+{"id": "3447", "frase": "il meteo mette pioggia sabato?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "15348", "frase": "chi sta facendo una diretta facebook in questo momento?", "intento_vero": "social_query", "intento_jev": "social_query", "confidenza": 1.0}
+{"id": "5014", "frase": "puoi rendere la stanza più luminosa?", "intento_vero": "iot_hue_lightup", "intento_jev": "iot_hue_lightup", "confidenza": 1.0}
+{"id": "13521", "frase": "perché la terra è rotonda?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "5159", "frase": "potresti suonare qualcosa di madonna?", "intento_vero": "play_music", "intento_jev": "play_music", "confidenza": 1.0}
+{"id": "5732", "frase": "dovrei cambiare le gomme con le gomme da neve presto?", "intento_vero": "weather_query", "intento_jev": "qa_factoid", "confidenza": 0.73}
+{"id": "12634", "frase": "quando parte il prossimo treno per bologna?", "intento_vero": "transport_query", "intento_jev": "transport_query", "confidenza": 1.0}
+{"id": "14481", "frase": "possiamo andare sul sole?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.77}
+{"id": "16276", "frase": "ho delle nuove email?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "8767", "frase": "è il compleanno di jessica il dodici aprile?", "intento_vero": "calendar_query", "intento_jev": "email_querycontact", "confidenza": 0.6}
+{"id": "17011", "frase": "puoi inviare una email a?", "intento_vero": "email_sendemail", "intento_jev": "email_sendemail", "confidenza": 1.0}
+{"id": "16983", "frase": "abbiamo il numero dell'ufficio di marco?", "intento_vero": "email_querycontact", "intento_jev": "email_querycontact", "confidenza": 1.0}
+{"id": "1933", "frase": "ci sarà una caduta della temperatura entro stanotte?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "15785", "frase": "c'è qualcosa di nuovo nella mia casella in arrivo?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "1076", "frase": "non riprodurre rock metal?", "intento_vero": "music_dislikeness", "intento_jev": "music_dislikeness", "confidenza": 0.4}
+{"id": "16749", "frase": "ci sono delle nuove email per me oggi?", "intento_vero": "email_query", "intento_jev": "email_query", "confidenza": 1.0}
+{"id": "14973", "frase": "qual è il tasso di cambio tra euro e dollaro?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "13154", "frase": "conosci il numero di telefono di alessia marcuzzi?", "intento_vero": "qa_factoid", "intento_jev": "email_querycontact", "confidenza": 1.0}
+{"id": "12717", "frase": "com'è il traffico al momento?", "intento_vero": "transport_traffic", "intento_jev": "transport_traffic", "confidenza": 1.0}
+{"id": "14368", "frase": "quanto sarà la popolazione mondiale tra vent'anni?", "intento_vero": "general_quirky", "intento_jev": "qa_factoid", "confidenza": 1.0}
+{"id": "8058", "frase": "ho una riunione di vendita oggi?", "intento_vero": "calendar_query", "intento_jev": "calendar_query", "confidenza": 1.0}
+{"id": "2472", "frase": "l'orario è giusto per dove mi trovo?", "intento_vero": "datetime_query", "intento_jev": "datetime_convert", "confidenza": 0.45}
+{"id": "6485", "frase": "cosa mi piace oggi?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.53}
+{"id": "14029", "frase": "qual è il tasso di cambio euro dollaro?", "intento_vero": "qa_currency", "intento_jev": "qa_currency", "confidenza": 1.0}
+{"id": "5176", "frase": "che tipo di tempo devo aspettarmi questa settimana?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 1.0}
+{"id": "12963", "frase": "cosa vuol dire forense?", "intento_vero": "qa_definition", "intento_jev": "qa_definition", "confidenza": 1.0}
+{"id": "13363", "frase": "quando finirà il mondo?", "intento_vero": "general_quirky", "intento_jev": "general_quirky", "confidenza": 0.57}
+{"id": "14342", "frase": "qual è il prezzo delle azioni di unicredit?", "intento_vero": "qa_stock", "intento_jev": "qa_stock", "confidenza": 1.0}
+{"id": "5468", "frase": "devo prendere gli occhiali da sole?", "intento_vero": "weather_query", "intento_jev": "weather_query", "confidenza": 0.44}
+{"id": "9961", "frase": "qual è la migliore temperatura del forno per cuocere le patate?", "intento_vero": "cooking_recipe", "intento_jev": "cooking_query", "confidenza": 1.0}
+{"id": "14053", "frase": "in quale anno ha cominciato a recitare raoul bova?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 0.93}
+{"id": "12972", "frase": "qual è la montagna più alta del mondo?", "intento_vero": "qa_factoid", "intento_jev": "qa_factoid", "confidenza": 1.0}
