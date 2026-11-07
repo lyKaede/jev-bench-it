@@ -8,6 +8,10 @@
 | **Model** | Jev 1.13.0 |
 | **Finding** | ~1.1 pp of the 3.3 pp gap appears attributable to missing punctuation in Italian questions |
 
+[![49-second presentation of the results](media/presentazione.gif)](media/presentazione.mp4)
+
+*The results in 49 seconds. Full-quality video: [`media/presentazione.mp4`](media/presentazione.mp4).*
+
 Jev, the decision model released by TypeSafe AI in September 2026, has so far been tested mainly in English. I ran it on the same sentences in Italian and in English from Amazon's MASSIVE dataset and compared the results.
 
 This benchmark measures **Italian vs English performance on parallel short voice-command intent classification**. It does not measure how well Jev understands Italian in general (see [What this benchmark does not show](#what-this-benchmark-does-not-show)).
